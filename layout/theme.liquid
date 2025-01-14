@@ -124,6 +124,7 @@
     <!-- CSS ================================================== -->
     {% render 'css-variables' %}
     {% render 'css-include' %}
+    {{ 'my-style.css' | asset_url | stylesheet_tag }}
 
     <!-- JS after CSSOM=================================================== -->
     <script src="{{ 'es-module-shims.lib.js' | asset_url }}" async></script>
