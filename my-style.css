@@ -8,6 +8,44 @@
 }
 
 /**
+ * Section
+ */
+.section h2.section__title-text {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 2rem auto 4rem;
+  padding: 0.75rem 1.5rem;
+  border-bottom: 2px solid #0094a4;
+  color: #0094a4;
+  line-height: 1.44;
+}
+.section h2.section__title-text::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -21px;
+  width: 0;
+  height: 0;
+  border-width: 21px 0 0 21px;
+  border-style: solid;
+  border-color: #0094a4 transparent transparent transparent;
+}
+.section h2.section__title-text::after {
+  content: "";
+  position: absolute;
+  left: calc(50% + 2px);
+  bottom: -15px;
+  width: 0;
+  height: 0;
+  border-width: 16px 0 0 17px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+  transform: none !important;
+  transition: none !important;
+}
+
+/**
  * RTE
  */
 .product-single__secondary-blocks .rte h2 {
