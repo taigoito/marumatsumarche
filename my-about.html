@@ -1,0 +1,48 @@
+<style>
+.section--about {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px; /* モバイル時文字落ち防止 */
+}
+
+.section--about__row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.section--about__title {
+  flex: 0 1 135px;
+}
+
+.section--about__container {
+  flex: 0 3 405px;
+  text-align: center;
+}
+
+.section--about__image {
+  flex: 0 4 540px;
+}
+</style>
+
+<section class="section section--about">
+  <div class="section--about__row">
+    <h2 class="section--about__title">
+      <img src="{{ 'about_title.png' | file_url }}" alt="うみさち便まるまつマルシェとは？">
+    </h2>
+    <div class="section--about__container">
+      <p class="section--about__lead">
+        <img src="{{ 'about_lead.png' | file_url }}" alt="あれば安心便利をストック">
+      </p>
+      <p class="section--about__content">新鮮な海の幸を使用した食べきりサイズの
+        <br>海鮮パックをはじめ、カニやエビなど手軽に
+        <br>調理できる商品を豊富に取り揃えています。
+        <br>素材のよさにこだわり、味付けや添加物を使わず、
+        <br>自然の美味しさを大切にした商品が魅力です。</p>
+    </div>
+    <div class="section--about__image">
+      <img src="{{ 'about_image.png' | file_url }}">
+    </div>
+  </div>
+</section>
