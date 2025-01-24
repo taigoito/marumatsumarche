@@ -9,6 +9,21 @@
 }
 
 /**
+ * Main Visual
+ */
+
+.mainVisual {
+  width: 100%;
+  height: 75vw;
+  object-fit: cover;
+  object-position: 0% 100%;
+
+  @media (min-width: 600px) {
+    height: 37.5vw;
+  }
+}
+
+/**
  * Section
  */
 
@@ -67,7 +82,6 @@
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    width: 100%;
     max-width: 1200px;
     margin: 0 auto;
   }
@@ -102,20 +116,23 @@
   &__row {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    width: 100%;
-    max-width: 1200px;
+    max-width: 1080px;
     margin: 0 auto;
     padding: 0;
   }
 
   &__dish {
-    flex: 1 1 450px;
-    width: 100%;
-    max-width: 600px;
+    flex: 0 1 480px;
+    max-width: 480px;
     padding: 30px;
     background-color: #f9ec78;
+
+    @media (min-width: 1200px) {
+      flex: 0 1 540px;
+      max-width: 540px;
+    }
   }
 }
 
@@ -132,23 +149,24 @@
   &__row {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    width: 100%;
+    gap: 15px;
+    max-width: 1080px;
     margin: 0 auto;
   }
 
   &__title {
-    flex: 0 1 135px;
+    flex: 0 1 120px;
   }
 
   &__container {
-    flex: 0 3 405px;
+    flex: 0 3 360px;
     text-align: center;
   }
   
   &__image {
-    flex: 0 4 540px;
+    flex: 0 4 480px;
   }
 }
 
@@ -163,7 +181,6 @@
   background-color: #f9f3e5;
 
   &__heading {
-    width: 100%;
     max-width: 600px;
     margin: 30px auto;
   }
@@ -176,18 +193,17 @@
     flex-flow: row wrap;
     justify-content: center;
     align-items: flex-start;
-    width: 100%;
-    max-width: 600px;
+    max-width: 540px;
     margin: 0 auto;
 
     @media (min-width: 1200px) {
-      max-width: 1200px;
+      max-width: 1080px;
     }
   }
 
   &__feature {
-    flex: 0 0 300px;
-    max-width: 300px;
+    flex: 0 0 270px;
+    max-width: 270px;
   }
 
   &__content {
@@ -196,7 +212,7 @@
   }
 
   &__subheading {
-    padding: 0.75rem 1.5rem;
+    padding: 0.75rem 0;
     border-left: 3px solid #0094a4;
     border-bottom: 3px solid #0094a4;
     border-radius: 0 0 0 20px;
