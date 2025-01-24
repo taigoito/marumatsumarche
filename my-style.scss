@@ -267,6 +267,89 @@
 }
 
 /**
+ * Section - Review
+ */
+
+.section--review {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 60px;
+  padding: 0 30px;
+
+  &__heading {
+    max-width: 600px;
+    margin: 30px auto;
+  }
+
+  &__lead1 {
+    position: relative;
+    width: 180px;
+    margin: 2rem auto 1rem;
+    border: 1px solid #000;
+    border-radius: 15px;
+    font-weight: 700;
+    text-align: center;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      bottom: -14px;
+      width: 0;
+      height: 0;
+      border-width: 14px 14px 0 0;
+      border-style: solid;
+      border-color: #000 transparent transparent transparent;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      left: calc(50% + 1px);
+      bottom: -10px;
+      width: 0;
+      height: 0;
+      border-width: 11px 12px 0 0;
+      border-style: solid;
+      border-color: #fff transparent transparent transparent;
+      transform: none !important; //reset
+      transition: none !important; // reset
+    }
+  }
+
+  &__lead2 {
+    width: fit-content;
+    margin: 1rem auto 2rem;
+    padding: 0 0.5em;
+    border-bottom: 2px dotted #000;
+    color: #0094a4;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.44;
+    text-align: center;
+  }
+
+  &__row {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+
+  &__review {
+    flex: 0 1 480px;
+    max-width: 480px;
+
+    @media (min-width: 1200px) {
+      flex: 0 1 540px;
+      max-width: 540px;
+    }
+  }
+}
+
+/**
  * RTE
  */
 
