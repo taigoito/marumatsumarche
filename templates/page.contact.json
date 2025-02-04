@@ -1,1 +1,31 @@
-{"sections":{"main":{"type":"main-page","settings":{}},"form":{"type":"section-contact-form","settings":{}}},"order":["main","form"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "form": {
+      "type": "section-contact-form",
+      "settings": {
+        "title": "お問い合わせフォーム",
+        "desc": "<p>どんなことでも、お気軽にお問い合わせください。</p>",
+        "heading_alignment": "center",
+        "section_width": "full",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "color_default_heading": true,
+        "color_default_border": true,
+        "divider_top": false,
+        "divider_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form"
+  ]
+}
