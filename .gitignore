@@ -14,4 +14,10 @@ package-lock.json
 /locales/
 /sections/
 /snippets/
-/templates/
+/templates/*
+!/templates/blog.json
+!/templates/collection.json
+!/templates/index.json
+!/templates/list-collections.json
+!/templates/page.contact.json
+!/templates/product.json
