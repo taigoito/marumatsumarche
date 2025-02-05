@@ -1,1 +1,4 @@
-<img class="mainVisual" src="{{ 'main.jpg' | file_url }}">
+<picture class="mailVisual">
+  <source srcset="{{ 'main.jpg' | file_url }}" media="(min-width: 600px)" type="image/jpg">
+  <img src="{{ 'main_mb.jpg' | file_url }}">
+</picture>
