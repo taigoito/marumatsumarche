@@ -9,21 +9,6 @@
 }
 
 /**
- * Main Visual
- */
-
-.mainVisual {
-  width: 100%;
-  height: 75vw;
-  object-fit: cover;
-  object-position: 0% 100%;
-
-  @media (min-width: 600px) {
-    height: 37.5vw;
-  }
-}
-
-/**
  * Section
  */
 
@@ -482,37 +467,5 @@
   .my-tags {
     color: var(--color--text-light);
     font-size: 80%;
-  }
-}
-
-/**
- * Customize - Home Carousel
- */
-.home-carousel {
-  &__content {
-    background: rgba(0, 0, 0, 0) !important;
-  }
-
-  h2.section__title-text {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    color: #fff;
-    font-weight: 700;
-    font-size: clamp(30px, 6vw, 60px);
-    text-shadow: 2px 2px 4px #000, 2px -2px 4px #000, -2px 2px 4px #000, -2px -2px 4px #000;
-
-    &::before, &::after {
-      content: none;
-    }
-  }
-
-  &__text.rte p {
-    width: fit-content;
-    padding-left: 6px;
-    padding-right: 6px;
-    background-color: #f9ec78;
-    font-weight: 700;
-    font-size: clamp(15px, 3vw, 30px);
   }
 }
