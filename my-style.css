@@ -358,7 +358,7 @@
 /**
  * RTE
  */
-.product-single__secondary-blocks .rte h2 {
+.rte h2 {
   position: relative;
   margin-top: 2rem;
   padding: 0.75rem 1.5rem;
@@ -366,9 +366,10 @@
   border-bottom: 3px solid #0094a4;
   border-radius: 0 0 0 20px;
   color: #0094a4;
+  font-size: 1.75rem;
   line-height: 1.44;
 }
-.product-single__secondary-blocks .rte h2::before {
+.rte h2::before {
   content: "";
   position: absolute;
   right: 50px;
@@ -379,7 +380,7 @@
   border-style: solid;
   border-color: #0094a4 transparent transparent transparent;
 }
-.product-single__secondary-blocks .rte h2::after {
+.rte h2::after {
   content: "";
   position: absolute;
   right: 54px;
@@ -390,29 +391,43 @@
   border-style: solid;
   border-color: #fff transparent transparent transparent;
 }
-.product-single__secondary-blocks .rte p {
+.rte h3 {
+  color: #006c7a;
+  font-size: 1.25rem;
+  line-height: 1.44;
+}
+.rte h3::before {
+  content: "";
+  display: inline-block;
+  width: 0.875rem;
+  height: 0.875rem;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+  background-color: #006c7a;
+}
+.rte p {
   line-height: 1.8;
 }
-.product-single__secondary-blocks .rte img, .product-single__secondary-blocks .rte .fluid-width-video-wrapper {
+.rte img, .rte .fluid-width-video-wrapper {
   margin: 1rem auto 0;
 }
-.product-single__secondary-blocks .rte table tr:first-child td {
+.rte table tr:first-child td {
   border-top: 1px solid var(--color--text-lightest);
 }
-.product-single__secondary-blocks .rte table td:first-child {
+.rte table td:first-child {
   padding-left: 12px;
   border-left: 1px solid var(--color--text-lightest);
   background-color: var(--color--bg-dark);
 }
-.product-single__secondary-blocks .rte table td {
+.rte table td {
   border-right: 1px solid var(--color--text-lightest);
 }
-.product-single__secondary-blocks .rte .my-note {
+.rte .my-note {
   padding: 1rem;
   border-radius: 0.5rem;
   background-color: var(--color--bg-dark);
 }
-.product-single__secondary-blocks .rte .my-tags {
+.rte .my-tags {
   color: var(--color--text-light);
   font-size: 80%;
 }
