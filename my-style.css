@@ -433,8 +433,9 @@
 }
 
 /**
- * RTE - Page
+ * RTE - Article, Page
  */
+.article__content.rte a,
 .page__content.rte a {
   display: inline-block;
   width: -moz-fit-content;
@@ -455,6 +456,7 @@
   cursor: pointer;
   transition: all 0.25s ease-in-out;
 }
+.article__content.rte a:hover,
 .page__content.rte a:hover {
   opacity: 0.85;
 }
