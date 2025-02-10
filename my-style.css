@@ -460,3 +460,10 @@
 .page__content.rte a:hover {
   opacity: 0.85;
 }
+
+/**
+ * Customize - Drawer cart
+ */
+#drawer-cart .cart__checkout {
+  display: none;
+}
