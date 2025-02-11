@@ -8,6 +8,13 @@
 }
 
 /**
+ * Main Visual
+ */
+.mainVisual img {
+  width: 100%;
+}
+
+/**
  * Section
  */
 .section h2.section__title-text {
