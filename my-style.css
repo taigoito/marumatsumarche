@@ -103,14 +103,16 @@
 }
 .section--dish__dish {
   flex: 0 1 480px;
+  width: 100%;
   max-width: 480px;
-  padding: 30px;
+  padding: 30px 15px;
   background-color: #f9ec78;
 }
 @media (min-width: 1200px) {
   .section--dish__dish {
     flex: 0 1 540px;
     max-width: 540px;
+    padding: 30px;
   }
 }
 
@@ -238,7 +240,7 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto 60px;
-  padding: 0 30px;
+  padding: 0 15px;
 }
 .section--review__heading {
   max-width: 600px;
@@ -299,6 +301,7 @@
 }
 .section--review__review {
   flex: 0 1 480px;
+  width: 100%;
   max-width: 480px;
 }
 @media (min-width: 1200px) {
