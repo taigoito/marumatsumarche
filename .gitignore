@@ -1,0 +1,17 @@
+# VS code
+.vscode/
+
+# Node_modules
+node_modules/
+package-lock.json
+
+# Shopify
+/assets/*
+!/assets/my-style.css
+/config/
+/layout/*
+!/layout/theme.liquid
+/locales/
+/sections/
+/snippets/
+/templates/*.liquid
