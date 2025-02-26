@@ -1,6 +1,22 @@
 /**
+ * Primary Nav
+ */
+
+ .primary-nav {
+  &__link {
+    font-size: 1rem;
+
+    &:hover {
+      border-color: #0094a4;
+      color: #0094a4;
+    }
+  }
+}
+
+/**
  * Main Visual
  */
+ 
 .mainVisual {
   img {
     width: 100%;
@@ -393,6 +409,19 @@
       line-height: 1.6;
       text-align: justify;
     }
+  }
+}
+
+/**
+ * Quick Shop Trigger
+ */
+
+.quick-shop__trigger {
+  opacity: 0;
+  transition: opacity 0.25s ease-in-out;
+
+  &:hover {
+    opacity: 1;
   }
 }
 
