@@ -1,1 +1,347 @@
-{"sections":{"section-slideshow":{"type":"section-slideshow","blocks":{"section-slideshow-0":{"type":"image","settings":{"title":"Image slide one","text":"<p>Use these slides to tell the world about your brand. You can use images or background video along with text and links.<\/p>","alignment":"left","link_title":"Shop all","link":"","link_style":"c-btn c-btn--hollow","link_title_2":"Shop new","link_2":"","link_style_2":"c-btn c-btn--primary"}},"section-slideshow-1":{"type":"image","settings":{"title":"Image slide two","text":"<p>Use these slides to tell the world about your brand. You can use images or background video along with text and links.<\/p>","alignment":"left","link_title":"Shop all","link":"","link_style":"c-btn c-btn--hollow","link_title_2":"Shop new","link_2":"","link_style_2":"c-btn c-btn--primary"}}},"block_order":["section-slideshow-0","section-slideshow-1"],"settings":{"slideshow_height":"full-screen","slideshow_width":"full","nav_style":"solid-brand","autoplay":true,"autoplay_speed":8,"style":"transparent","text_bg_color":"#ffffff","text_color":"#ffffff","overlay_color":"#000000","overlay_strength":10,"text_heading_color":false,"text_border_color":true,"title_size":3}},"0436301d-0018-4b49-8493-36629494c103":{"type":"section-collection","blocks":{"template--16630217933054__0436301d-0018-4b49-8493-36629494c103-16732704286083a762-0":{"type":"collection","settings":{"heading":"","heading_color":"rgba(0,0,0,0)","collection":"","link":""}},"b7fd9bfb-e62b-4f7a-b6f1-228cc49dde2a":{"type":"collection","settings":{"heading":"","heading_color":"rgba(0,0,0,0)","collection":"","link":""}}},"block_order":["template--16630217933054__0436301d-0018-4b49-8493-36629494c103-16732704286083a762-0","b7fd9bfb-e62b-4f7a-b6f1-228cc49dde2a"],"settings":{"title":"Collections","section_width":"large","maximum_products":9,"grid":3,"enable_carousel_desktop":true,"grid_mobile":"1","enable_carousel_mobile":true}},"7fde9218-347e-4759-8414-d9816462cbc3":{"type":"section-image-text-banner","blocks":{"template--16580692541694__7fde9218-347e-4759-8414-d9816462cbc3-1666783737286ed4d1-0":{"type":"text","settings":{"text":"<p>Offer some insight into your brand and history. Use images, text and video to describe your value proposition.<\/p>","text_size":5,"text_width":60,"text_size_mobile":3}},"b0ca8c62-a7fc-42e3-80ca-4b09e93ed3a1":{"type":"button","settings":{"button_label":"Shop all","button_link":"","button_style":"c-btn c-btn--hollow"}}},"block_order":["template--16580692541694__7fde9218-347e-4759-8414-d9816462cbc3-1666783737286ed4d1-0","b0ca8c62-a7fc-42e3-80ca-4b09e93ed3a1"],"settings":{"content_alignment":"center","section_height":450,"section_height_mobile":250,"section_width":"contained","bg_color":"rgba(0,0,0,0)","content_color":"#ffffff","overlay_color":"#000000","overlay_strength":10,"content_heading_color":false}},"e6c3bd10-67e9-4c3b-b5e2-69738954310b":{"type":"section-testimonials","blocks":{"template--14778633355349__e6c3bd10-67e9-4c3b-b5e2-69738954310b-16802773813ee3c4f6-0":{"type":"text","settings":{"media":"quote","image_round":true,"text":"<p>Use these testimonials to share what customers are saying about your products and your brand.<\/p>","name":"Customer name","source":"Source"}},"template--14778633355349__e6c3bd10-67e9-4c3b-b5e2-69738954310b-16802773813ee3c4f6-1":{"type":"text","settings":{"media":"instagram","image_round":true,"text":"<p>Use these testimonials to share what customers are saying about your products and your brand.<\/p>","name":"Customer name","source":"Source"}},"template--14778633355349__e6c3bd10-67e9-4c3b-b5e2-69738954310b-16802773813ee3c4f6-2":{"type":"text","settings":{"media":"x","image_round":true,"text":"<p>Use these testimonials to share what customers are saying about your products and your brand.<\/p>","name":"Customer name","source":"Source"}}},"block_order":["template--14778633355349__e6c3bd10-67e9-4c3b-b5e2-69738954310b-16802773813ee3c4f6-0","template--14778633355349__e6c3bd10-67e9-4c3b-b5e2-69738954310b-16802773813ee3c4f6-1","template--14778633355349__e6c3bd10-67e9-4c3b-b5e2-69738954310b-16802773813ee3c4f6-2"],"settings":{"title":"","style_desktop":"featured-grid","desktop_carousel":true,"mobile_carousel":true}},"f9003dbd-5d43-493a-a07a-c6523e1a3feb":{"type":"section-image-with-text-overlap","blocks":{"template--14778633355349__f9003dbd-5d43-493a-a07a-c6523e1a3feb-1680277286c2d60e28-0":{"type":"image","settings":{"title":"Image with text","desc":"<p>Use these blocks to share your brand's story. You can focus on a particular collection, a product detail, or even embed a video.<\/p>","horizontal_align":"left","link_title":"Learn more","link":"","bg_color_block":"#f2f2f2","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false,"text_border_color":true}},"template--14778633355349__f9003dbd-5d43-493a-a07a-c6523e1a3feb-1680277286c2d60e28-1":{"type":"image","settings":{"title":"Image with text","desc":"<p>Use these blocks to share your brand's story. You can focus on a particular collection, a product detail, or even embed a video.<\/p>","horizontal_align":"left","link_title":"Learn more","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false,"text_border_color":true}}},"block_order":["template--14778633355349__f9003dbd-5d43-493a-a07a-c6523e1a3feb-1680277286c2d60e28-0","template--14778633355349__f9003dbd-5d43-493a-a07a-c6523e1a3feb-1680277286c2d60e28-1"],"settings":{"image_ratio":"4:3","block_align":"right","container":"full","block_spacing":6,"block_layout":"2\/3","text_style":"solid","heading_size":2,"link_style":"primary"}},"e7564c21-6be8-45b8-a2ff-9dbd3e39175a":{"type":"section-collection-list","blocks":{"template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-0":{"type":"collection","settings":{"collection":"","heading":"","description":"","button_label":"","link":""}},"template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-1":{"type":"collection","settings":{"collection":"","heading":"","description":"","button_label":"","link":""}},"template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-2":{"type":"collection","settings":{"collection":"","heading":"","description":"","button_label":"","link":""}},"template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-3":{"type":"collection","settings":{"collection":"","heading":"","description":"","button_label":"","link":""}},"template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-4":{"type":"collection","settings":{"collection":"","heading":"","description":"","button_label":"","link":""}},"template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-5":{"type":"collection","settings":{"collection":"","heading":"","description":"","button_label":"","link":""}}},"block_order":["template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-0","template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-1","template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-2","template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-3","template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-4","template--15118602403863__e7564c21-6be8-45b8-a2ff-9dbd3e39175a-168789263903095273-5"],"settings":{"title":"","desc":"","image_ratio":"3:4","heading_alignment":"center","alignment":"middle-center","text_alignment":"center","visibility_heading":true,"visibility_count":false,"visibility_border":true,"visibility_description":false,"visibility_button":true,"hover_options":"hover-button","section_width":"large","grid":3,"spacing":3,"enable_carousel_desktop":true,"enable_carousel_mobile":true,"color_text":"#ffffff","color_overlay":"#000000","color_overlay_strength":10,"color_default_heading":false,"color_default_border":true,"title_size":3,"button_style":"c-btn c-btn--hollow","section_link_style":"link link--arrow","padding_top":0,"padding_bottom":60}},"ac7829e3-f3f8-4fbb-8aaf-dc6c93046065":{"type":"section-multi-column-icons","blocks":{"template--16580692541694__ac7829e3-f3f8-4fbb-8aaf-dc6c93046065-1666783782ba78525d-0":{"type":"text","settings":{"icon":"icon-love-it","color_icon":"rgba(0,0,0,0)","title":"Column heading","sub_title":"","desc":"<p>Describe the main features of your brand or products using a few lines of text and an icon.<\/p>","link_title":"Learn more","link":""}},"template--16580692541694__ac7829e3-f3f8-4fbb-8aaf-dc6c93046065-1666783782ba78525d-1":{"type":"text","settings":{"icon":"icon-sea-transport-boat","color_icon":"rgba(0,0,0,0)","title":"Column heading","sub_title":"","desc":"<p>Describe the main features of your brand or products using a few lines of text and an icon.<\/p>","link_title":"Learn more","link":""}},"template--16580692541694__ac7829e3-f3f8-4fbb-8aaf-dc6c93046065-1666783782ba78525d-2":{"type":"text","settings":{"icon":"icon-conversation-chat-text","color_icon":"rgba(0,0,0,0)","title":"Column heading","sub_title":"","desc":"<p>Describe the main features of your brand or products using a few lines of text and an icon.<\/p>","link_title":"Learn more","link":""}},"cc8fdcf0-58ba-439b-8228-bb83f64a3dcd":{"type":"text","settings":{"icon":"icon-check-circle-1","color_icon":"rgba(0,0,0,0)","title":"Column heading","sub_title":"","desc":"<p>Describe the main features of your brand or products using a few lines of text and an icon.<\/p>","link_title":"Learn more","link":""}}},"block_order":["template--16580692541694__ac7829e3-f3f8-4fbb-8aaf-dc6c93046065-1666783782ba78525d-0","template--16580692541694__ac7829e3-f3f8-4fbb-8aaf-dc6c93046065-1666783782ba78525d-1","template--16580692541694__ac7829e3-f3f8-4fbb-8aaf-dc6c93046065-1666783782ba78525d-2","cc8fdcf0-58ba-439b-8228-bb83f64a3dcd"],"settings":{"title":"","alignment":"center","container":"small","grid":2,"spacing":3,"grid_mobile":"1","bg_color":"rgba(0,0,0,0)","color_text":"rgba(0,0,0,0)","text_heading_color":true,"text_border_color":true,"heading_size":3,"icon_size":30,"icon_padding":0}},"deed0c7d-a6b2-434e-8882-2a7cba84c982":{"type":"section-map","blocks":{"template--16580692541694__deed0c7d-a6b2-434e-8882-2a7cba84c982-16667837825ddf24c3-0":{"type":"map","settings":{"title":"Map","desc":"<p>273 Street Lane<br\/>San Francisco, CA 94102<br\/>(415) 557-4400<br\/>store@email.com<\/p>","sub_desc":"<p>Monday - Thursday, 12:00 to 23:00<br\/>Friday &amp; Saturday, 12:00 to 00:00<br\/>Sunday, Closed<\/p>","address":"100 Larkin St, San Francisco, CA 94102, USA"}}},"block_order":["template--16580692541694__deed0c7d-a6b2-434e-8882-2a7cba84c982-16667837825ddf24c3-0"],"settings":{"google_api_key":"","show_directions_btn":false,"bg_color":"rgba(0,0,0,0)","map_style":"light"}}},"order":["section-slideshow","0436301d-0018-4b49-8493-36629494c103","7fde9218-347e-4759-8414-d9816462cbc3","e6c3bd10-67e9-4c3b-b5e2-69738954310b","f9003dbd-5d43-493a-a07a-c6523e1a3feb","e7564c21-6be8-45b8-a2ff-9dbd3e39175a","ac7829e3-f3f8-4fbb-8aaf-dc6c93046065","deed0c7d-a6b2-434e-8882-2a7cba84c982"]}
+{
+  "sections": {
+    "section_liquid_pQtQ7D": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<picture class=\"mainVisual\">\n  <source srcset=\"{{ 'main.jpg' | file_url }}\" media=\"(min-width: 600px)\" type=\"image/jpg\">\n  <img src=\"{{ 'main_mb.jpg' | file_url }}\">\n</picture>"
+      }
+    },
+    "section_multi_column_images_HjHtGy": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "image_XPF8xR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1200x900_2.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "詳細を見る",
+            "link": "shopify://pages/gift-collection"
+          }
+        },
+        "image_Th3qLP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1200x900_3.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "詳細を見る",
+            "link": "shopify://pages/featured-echizen-gourmet"
+          }
+        },
+        "image_HwDUM7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Column heading",
+            "sub_title": "",
+            "desc": "<p>Describe the main features of your brand or products using a few lines of text along with images or icons.</p>",
+            "link_title": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XPF8xR",
+        "image_Th3qLP",
+        "image_HwDUM7"
+      ],
+      "settings": {
+        "title": "特集",
+        "desc": "",
+        "image_toggle": true,
+        "image_ratio": "4:3",
+        "image_fit": false,
+        "image_size": 100,
+        "image_padding": 0,
+        "heading_alignment": "center",
+        "alignment": "center",
+        "container": "large",
+        "grid": 3,
+        "spacing": 3,
+        "grid_mobile": "1",
+        "mobile_carousel": true,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": true,
+        "text_border_color": true,
+        "divider_top": false,
+        "divider_bottom": false,
+        "heading_size": 3,
+        "block_link_style": "hollow",
+        "section_link_title": "View all",
+        "section_link_link": "",
+        "section_link_style": "link link--arrow",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    },
+    "section_collection_PpGarE": {
+      "type": "section-collection",
+      "blocks": {
+        "collection_cFTRd6": {
+          "type": "collection",
+          "settings": {
+            "heading": "",
+            "heading_color": "rgba(0,0,0,0)",
+            "collection": "pickup",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_cFTRd6"
+      ],
+      "settings": {
+        "title": "ピックアップアイテム",
+        "desc": "",
+        "heading_alignment": "center",
+        "section_width": "large",
+        "maximum_products": 12,
+        "grid": 4,
+        "enable_carousel_desktop": true,
+        "grid_mobile": "1",
+        "enable_carousel_mobile": true,
+        "divider_top": false,
+        "divider_bottom": false,
+        "section_link_title": "",
+        "section_link_link": "",
+        "section_link_style": "link link--arrow",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    },
+    "section_liquid_giwNjQ": {
+      "type": "section-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<section class=\"section section--media\">\n  <h2 class=\"section__title-text\">メディア</h2>\n  <p class=\"section--media__lead\">メディアで紹介されました！</p>\n  <div class=\"section--media__row\">\n    <img class=\"section--media__media\" src=\"{{ 'media_00.png' | file_url }}\">\n    <img class=\"section--media__media\" src=\"{{ 'media_01.png' | file_url }}\">\n    <img class=\"section--media__media\" src=\"{{ 'media_02.png' | file_url }}\">\n  </div>\n</section>"
+      }
+    },
+    "section_liquid_Vrji3E": {
+      "type": "section-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<section class=\"section section--dish\">\n  <div class=\"section--dish__row\">\n    <img class=\"section--dish__dish\" src=\"{{ 'dish_00.png' | file_url }}\">\n    <img class=\"section--dish__dish\" src=\"{{ 'dish_01.png' | file_url }}\">\n  </div>\n</section>"
+      }
+    },
+    "section_liquid_fmYWME": {
+      "type": "section-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<section class=\"section section--about\">\n  <div class=\"section--about__row\">\n    <h2 class=\"section--about__title\">\n      <img src=\"{{ 'about_title.png' | file_url }}\" alt=\"うみさち便まるまつマルシェとは？\">\n    </h2>\n    <div class=\"section--about__container\">\n      <p class=\"section--about__lead\">\n        <img src=\"{{ 'about_lead.png' | file_url }}\" alt=\"あれば安心便利をストック\">\n      </p>\n      <p class=\"section--about__content\">新鮮な海の幸を使用した食べきりサイズの\n        <br>海鮮パックをはじめ、カニやエビなど手軽に\n        <br>調理できる商品を豊富に取り揃えています。\n        <br>素材のよさにこだわり、味付けや添加物を使わず、\n        <br>自然の美味しさを大切にした商品が魅力です。</p>\n    </div>\n    <div class=\"section--about__image\">\n      <img src=\"{{ 'about_image.png' | file_url }}\">\n    </div>\n  </div>\n</section>"
+      }
+    },
+    "section_liquid_Qa378c": {
+      "type": "section-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<section class=\"section section--feature\">\n  <h2 class=\"section--feature__heading\">\n    <img src=\"{{ 'feature_heading.png' | file_url }}\">\n  </h2>\n  <div class=\"section--feature__row\">\n    <div class=\"section--feature__feature\">\n      <img class=\"section--feature__media\" src=\"{{ 'feature_01.png' | file_url }}\">\n      <div class=\"section--feature__content\">\n        <h3 class=\"section__subheading section--feature__subheading\"><strong class=\"section--feature__strong\">鮮度</strong>にこだわった<span class=\"section--feature__large\">魚</span>を<span class=\"section--feature__large\">使用</span></h3>\n        <p><strong class=\"section__strong\">厳選した新鮮な魚のみを使用</strong>し、海の恵みをそのまま食卓へお届けします。ひと口で感じる本物の味わいが、多くの人に支持されています。</p>\n      </div>\n    </div>\n    <div class=\"section--feature__feature\">\n      <img class=\"section--feature__media\" src=\"{{ 'feature_02.png' | file_url }}\">\n      <div class=\"section--feature__content\">\n        <h3 class=\"section__subheading section--feature__subheading\"><strong class=\"section--feature__strong\">自社工場</strong>で一つ一つ<span class=\"section--feature__large\">丁寧</span>に</h3>\n        <p>自社工場でひとつひとつ丁寧に、<strong class=\"section__strong\">機械ではできない繊細な作業</strong>を職人の手で行っています。手作業だからこそ生まれる品質と味わいが、評価を受けています。</p>\n      </div>\n    </div>\n    <div class=\"section--feature__feature\">\n      <img class=\"section--feature__media\" src=\"{{ 'feature_03.png' | file_url }}\">\n      <div class=\"section--feature__content\">\n        <h3 class=\"section__subheading section--feature__subheading\"><strong class=\"section--feature__strong\">最新鋭</strong>の<span class=\"section--feature__large\">冷凍技術</span></h3>\n        <p>港から直接仕入れた新鮮な魚介類をその日のうちに丁寧に加工し、<strong class=\"section__strong\">独自の技術で鮮度を保ちながら冷凍</strong>。まるで水揚げしたてのような海の幸を味わえます。</p>\n      </div>\n    </div>\n    <div class=\"section--feature__feature\">\n      <img class=\"section--feature__media\" src=\"{{ 'feature_04.png' | file_url }}\">\n      <div class=\"section--feature__content\">\n        <h3 class=\"section__subheading section--feature__subheading\"><strong class=\"section--feature__strong\">簡単</strong>かつ<strong class=\"section--feature__strong\">おいしい</strong></h3>\n        <p>解凍後すぐに食べられる手軽さで、忙しい日でも満足のいく食卓を実現。<strong class=\"section__strong\">「こういうの欲しかった！」を形に</strong>した、便利で美味しい海の幸をお楽しみください。</p>\n      </div>\n    </div>\n  </div>\n  <img class=\"section--feature__bg\" src=\"{{ 'feature_bg.jpg' | file_url }}\">\n</section>"
+      }
+    },
+    "section_liquid_BCdE3D": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<section class=\"section section--review\">\n  <h2 class=\"section--review__heading\">\n    <img src=\"{{ 'review_heading.png' | file_url }}\">\n  </h2>\n  <p class=\"section--review__lead1\">聞いてみました</p>\n  <p class=\"section--review__lead2\">まるまつマルシェのココがお気に入り！</p>\n  <div class=\"section--review__row\">\n    <img class=\"section--review__review\" src=\"{{ 'review_00.png' | file_url }}\">\n    <img class=\"section--review__review\" src=\"{{ 'review_01.png' | file_url }}\">\n  </div>\n</section>"
+      }
+    },
+    "section_rich_text_gdR4KP": {
+      "type": "section-rich-text",
+      "settings": {
+        "section_title": "アレンジを楽しもう！",
+        "text": "",
+        "section_width": "tiny",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    },
+    "section_scrolling_logos_aqLNwR": {
+      "type": "section-scrolling-logos",
+      "blocks": {
+        "logo_mEeKRR": {
+          "type": "logo",
+          "settings": {
+            "image_scale": 50,
+            "link": ""
+          }
+        },
+        "logo_APxbKT": {
+          "type": "logo",
+          "settings": {
+            "image_scale": 50,
+            "link": ""
+          }
+        },
+        "logo_88m3K3": {
+          "type": "logo",
+          "settings": {
+            "image_scale": 50,
+            "link": ""
+          }
+        },
+        "logo_iYxgjG": {
+          "type": "logo",
+          "settings": {
+            "image_scale": 50,
+            "link": ""
+          }
+        },
+        "logo_EExKBd": {
+          "type": "logo",
+          "settings": {
+            "image_scale": 50,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_mEeKRR",
+        "logo_APxbKT",
+        "logo_88m3K3",
+        "logo_iYxgjG",
+        "logo_EExKBd"
+      ],
+      "settings": {
+        "scroll_direction": "rtl",
+        "scroll_style": "auto_hover_pause",
+        "scroll_speed": 2,
+        "logo_spacing_desktop": 4,
+        "logo_size_desktop": 10,
+        "logo_spacing_mobile": 4,
+        "logo_size_mobile": 6,
+        "color_bg": "",
+        "opacity": 100,
+        "divider_top": false,
+        "divider_bottom": false,
+        "padding_top": 18,
+        "padding_bottom": 18,
+        "section_bottom_margin": false
+      }
+    },
+    "section_liquid_TLKRch": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<section class=\"section section--concept\">\n  <h2 class=\"section__title-text\">つくりての想い</h2>\n  <div class=\"section--concept__row\">\n    <div class=\"section--concept__concept\">\n      <img class=\"section--concept__image\" src=\"{{ 'concept_00.jpg' | file_url }}\">\n      <div class=\"section--concept__content\">\n        <h3 class=\"section--concept__subheading\">北陸の魚、行き場を失う理由</h3>\n        <p>北陸の豊かな海が育んだ新鮮な鮮魚。しかし、旬の時期に大量に獲れることで販路を確保できない魚や、鮮度を保つのが難しく<strong class=\"section__strong\">全国流通が困難な魚が多く存在し、その価値を発揮できずに行き場を失っています</strong>。その一方で、「買いたいけど手に入らない」「時間が経つと美味しさが失われてしまう」といったお客様の声をたくさんいただいてきました。</p>\n      </div>\n    </div>\n    <div class=\"section--concept__concept\">\n      <img class=\"section--concept__image\" src=\"{{ 'concept_02.jpg' | file_url }}\">\n      <div class=\"section--concept__content\">\n        <h3 class=\"section--concept__subheading\">お客様の声から始まる新たな挑戦</h3>\n        <p>そこで、私たちはお客様の声に応えるべく、<strong class=\"section__strong\">最新の冷凍技術を駆使し、獲れたての鮮度と旨みをそのまま閉じ込めた商品を開発・製造しています</strong>。この技術により、北陸の豊かな海の幸を季節を問わず、より多くのお客様に味わっていただけるようになりました。</p>\n      </div>\n    </div>\n    <div class=\"section--concept__concept\">\n      <img class=\"section--concept__image\" src=\"{{ 'concept_01.jpg' | file_url }}\">\n      <div class=\"section--concept__content\">\n        <h3 class=\"section--concept__subheading\">職人技が生む本物の美味しさ</h3>\n        <p>鮮魚 丸松グループでは、経験豊富な職人が約20名在籍。北陸の豊かな海が育んだ海の幸やカニなどを、どなたでも手軽に、そして最高の美味しさで味わっていただけるよう、真心を込めてひとつひとつ丁寧に作り上げています。<strong class=\"section__strong\">鮮度が良いからこそ、添加物や余分な調味料は一切使用せず、素材そのものの魅力を存分に引き出しています</strong>。</p>\n      </div>\n    </div>\n    <div class=\"section--concept__concept\">\n      <img class=\"section--concept__image\" src=\"{{ 'concept_03.jpg' | file_url }}\">\n      <div class=\"section--concept__content\">\n        <h3 class=\"section--concept__subheading\">ご家庭で簡単に！北陸の味わい</h3>\n        <p>さらに、簡単に作れる多彩なレシピもご紹介しています。忙しい日でも、本格的な海の幸を手軽に楽しめる工夫が詰まっています。<strong class=\"section__strong\">北陸の海が贈る最高の味わいを、ぜひご家庭でお楽しみください</strong>。</p>\n      </div>\n    </div>\n  </div>\n</section>"
+      }
+    },
+    "section_custom_QDNLJD": {
+      "type": "section-custom",
+      "blocks": {
+        "text_BJLJ3N": {
+          "type": "text",
+          "settings": {
+            "title": "鮮魚丸松グループ紹介",
+            "text": "",
+            "align": "center",
+            "width": "2/3"
+          }
+        },
+        "image_96qxim": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/our-group.png",
+            "link": "",
+            "width": "1/1"
+          }
+        },
+        "text_NG7gYy": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>鮮魚 丸松グループでは、加工部門、飲食部門、物販部門の3つを展開。加工で鮮度を活かした商品を製造し、飲食で旬の味を提供、物販で手軽に海の幸をお届けすることで、多角的に「北陸の美味」をお届けしています。</p>",
+            "align": "left",
+            "width": "2/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_BJLJ3N",
+        "image_96qxim",
+        "text_NG7gYy"
+      ],
+      "custom_css": [
+        ".container {max-width: 740px;}"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_blog_3MA8tf": {
+      "type": "section-blog",
+      "settings": {
+        "title": "ブログ",
+        "desc": "",
+        "blog": "blog",
+        "blog_image_ratio": "16:9",
+        "heading_alignment": "center",
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_read_more": true,
+        "section_width": "large",
+        "post_limit": 4,
+        "grid": 2,
+        "divider_top": false,
+        "divider_bottom": false,
+        "section_link_title": "View all",
+        "section_link_link": "",
+        "section_link_style": "link link--arrow",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    },
+    "section_blog_Wxm643": {
+      "type": "section-blog",
+      "custom_css": [
+        ".blog__media-wrapper {display: none;}",
+        ".o-layout {text-align: center;}",
+        ".o-layout__item {text-align: left;}"
+      ],
+      "settings": {
+        "title": "お知らせ",
+        "desc": "",
+        "blog": "news",
+        "blog_image_ratio": "4:3",
+        "heading_alignment": "center",
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_read_more": true,
+        "section_width": "large",
+        "post_limit": 3,
+        "grid": 3,
+        "divider_top": false,
+        "divider_bottom": false,
+        "section_link_title": "View all",
+        "section_link_link": "",
+        "section_link_style": "link link--arrow",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    }
+  },
+  "order": [
+    "section_liquid_pQtQ7D",
+    "section_multi_column_images_HjHtGy",
+    "section_collection_PpGarE",
+    "section_liquid_giwNjQ",
+    "section_liquid_Vrji3E",
+    "section_liquid_fmYWME",
+    "section_liquid_Qa378c",
+    "section_liquid_BCdE3D",
+    "section_rich_text_gdR4KP",
+    "section_scrolling_logos_aqLNwR",
+    "section_liquid_TLKRch",
+    "section_custom_QDNLJD",
+    "section_blog_3MA8tf",
+    "section_blog_Wxm643"
+  ]
+}

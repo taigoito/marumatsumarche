@@ -1,1 +1,50 @@
-{"sections":{"main":{"type":"main-article","blocks":{"tags":{"type":"tags","settings":{}},"title":{"type":"title","settings":{}},"date":{"type":"date","settings":{}},"content":{"type":"content","settings":{}},"meta":{"type":"meta","settings":{}}},"block_order":["tags","title","date","content","meta"],"settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "tags": {
+          "type": "tags",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "date": {
+          "type": "date",
+          "settings": {}
+        },
+        "table_of_contents_theme_extension_9LRTX8": {
+          "type": "shopify://apps/table-of-contents/blocks/theme-extension/d06f5754-affb-4dc7-a2a9-18d74d225f70",
+          "settings": {}
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        },
+        "meta": {
+          "type": "meta",
+          "settings": {
+            "show_author": false,
+            "show_sharing": true
+          }
+        }
+      },
+      "block_order": [
+        "tags",
+        "title",
+        "date",
+        "table_of_contents_theme_extension_9LRTX8",
+        "content",
+        "meta"
+      ],
+      "settings": {
+        "show_img": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
