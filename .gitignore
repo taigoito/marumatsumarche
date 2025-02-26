@@ -13,5 +13,6 @@ package-lock.json
 !/layout/theme.liquid
 /locales/
 /sections/
-/snippets/
+/snippets/*
+!/snippets/product-price.liquid
 /templates/*.liquid
