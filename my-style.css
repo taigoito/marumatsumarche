@@ -432,3 +432,32 @@
   color: var(--color--text-light);
   font-size: 80%;
 }
+
+/**
+ * RTE - Article, Page
+ */
+.article__content.rte a,
+.page__content.rte a {
+  display: inline-block;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: #0094a4;
+  color: var(--color--btn);
+  font-size: 0.8rem;
+  text-align: center;
+  text-decoration: none;
+  word-break: break-word;
+  outline: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  cursor: pointer;
+  transition: all 0.25s ease-in-out;
+}
+.article__content.rte a:hover,
+.page__content.rte a:hover {
+  opacity: 0.85;
+}
