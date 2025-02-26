@@ -461,3 +461,12 @@
 .page__content.rte a:hover {
   opacity: 0.85;
 }
+
+/**
+ * Apps
+ */
+.ngc-note-attr-field {
+  margin: 0 !important;
+  line-height: 1.6 !important;
+  text-align: left !important;
+}
