@@ -1,4 +1,12 @@
 /**
+ * Header Logo
+ */
+@media (max-width: 29.99em) {
+  .header__logo-img, .header__logo-ratio-box {
+    max-width: 240px !important;
+  }
+}
+/**
  * Primary Nav
  */
 .primary-nav__link {
@@ -64,6 +72,7 @@
   padding: 0 30px;
 }
 .section--media__lead {
+  font-size: 1.25rem;
   text-align: center;
 }
 .section--media__row {
@@ -102,6 +111,7 @@
   max-width: 1080px;
   margin: 0 auto;
   padding: 0;
+  background-color: #f9ec78;
 }
 .section--dish__dish {
   flex: 0 1 480px;
@@ -157,8 +167,13 @@
   background-color: #f9f3e5;
 }
 .section--feature__heading {
-  max-width: 600px;
-  margin: 30px auto;
+  width: min(80%, 600px);
+  margin: 0 auto;
+}
+@media (min-width: 600px) {
+  .section--feature__heading {
+    margin: 30px auto;
+  }
 }
 .section--feature__row {
   position: relative;
@@ -168,28 +183,28 @@
   flex-flow: row wrap;
   justify-content: center;
   align-items: flex-start;
-  max-width: 540px;
+  max-width: 600px;
   margin: 0 auto;
 }
 @media (min-width: 1200px) {
   .section--feature__row {
-    max-width: 1080px;
+    max-width: 1200px;
   }
 }
 .section--feature__feature {
-  flex: 0 0 270px;
-  max-width: 270px;
+  flex: 0 0 300px;
+  max-width: 300px;
 }
 .section--feature__content {
   padding: 0 20px;
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 .section--feature__subheading {
   padding: 0.75rem 0;
   border-left: 3px solid #0094a4;
   border-bottom: 3px solid #0094a4;
   border-radius: 0 0 0 20px;
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1.44;
   text-align: center;
   letter-spacing: 2px;
@@ -326,7 +341,7 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-start;
 }
 .section--concept__concept {
   display: flex;
@@ -339,7 +354,7 @@
 }
 .section--concept__image {
   width: calc(100% - 30px);
-  margin: 0 auto;
+  margin: 0 auto 9px;
   padding: 9px;
   border: 1px solid #999;
   border-radius: 9px;
@@ -358,11 +373,11 @@
 .section--concept__subheading {
   margin: 0;
   color: #0094a4;
-  font-size: 1rem;
+  font-size: 1.17rem;
 }
 .section--concept__subheading + p {
   margin: 0;
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1.6;
   text-align: justify;
 }

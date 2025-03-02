@@ -1,7 +1,10 @@
 <section class="section section--about">
   <div class="section--about__row">
     <h2 class="section--about__title">
-      <img src="{{ 'about_title.png' | file_url }}" alt="うみさち便まるまつマルシェとは？">
+      <picture>
+        <source srcset="{{ 'about_title.png' | file_url }}" media="(min-width: 600px)" type="image/jpg">
+        <img src="{{ 'about_title_sm.png' | file_url }}" alt="うみさち便まるまつマルシェとは？">
+      </picture>
     </h2>
     <div class="section--about__container">
       <p class="section--about__lead">

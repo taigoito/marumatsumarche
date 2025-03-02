@@ -1,6 +1,9 @@
 <section class="section section--feature">
   <h2 class="section--feature__heading">
-    <img src="{{ 'feature_heading.png' | file_url }}">
+    <picture>
+      <source srcset="{{ 'feature_heading.png' | file_url }}" media="(min-width: 600px)" type="image/png">
+      <img src="{{ 'feature_heading_sm.png' | file_url }}" alt="まるまつマルシェが選ばれる4つの理由">
+    </picture>
   </h2>
   <div class="section--feature__row">
     <div class="section--feature__feature">
