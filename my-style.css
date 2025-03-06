@@ -241,7 +241,7 @@
 }
 .section--feature__bg {
   position: absolute;
-  top: 180px;
+  top: min(50vw, 240px);
   left: 0;
   right: 0;
   width: 100%;
@@ -266,7 +266,7 @@
 .section--review__lead1 {
   position: relative;
   width: 180px;
-  margin: 2rem auto 1rem;
+  margin: 2rem auto;
   border: 1px solid #000;
   border-radius: 15px;
   font-weight: 700;
@@ -299,7 +299,7 @@
 .section--review__lead2 {
   width: -moz-fit-content;
   width: fit-content;
-  margin: 1rem auto 2rem;
+  margin: 2rem auto 60px;
   padding: 0 0.5em;
   border-bottom: 2px dotted #000;
   color: #0094a4;
@@ -334,8 +334,13 @@
 .section--concept {
   width: 100%;
   max-width: 1200px;
-  margin: 0 auto 60px;
+  margin: 0 auto;
   padding: 0;
+}
+@media (min-width: 1200px) {
+  .section--concept {
+    margin-bottom: 60px;
+  }
 }
 .section--concept__row {
   display: flex;
