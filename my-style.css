@@ -241,7 +241,7 @@
 }
 .section--feature__bg {
   position: absolute;
-  top: 180px;
+  top: min(50vw, 240px);
   left: 0;
   right: 0;
   width: 100%;
@@ -266,7 +266,7 @@
 .section--review__lead1 {
   position: relative;
   width: 180px;
-  margin: 2rem auto 1rem;
+  margin: 2rem auto;
   border: 1px solid #000;
   border-radius: 15px;
   font-weight: 700;
@@ -299,8 +299,8 @@
 .section--review__lead2 {
   width: -moz-fit-content;
   width: fit-content;
-  margin: 1rem auto 2rem;
-  padding: 0 0.5em;
+  margin: 2rem auto 30px;
+  padding: 0 0.5em 30px;
   border-bottom: 2px dotted #000;
   color: #0094a4;
   font-weight: 700;
@@ -334,8 +334,13 @@
 .section--concept {
   width: 100%;
   max-width: 1200px;
-  margin: 0 auto 60px;
+  margin: 0 auto;
   padding: 0;
+}
+@media (min-width: 1200px) {
+  .section--concept {
+    margin-bottom: 60px;
+  }
 }
 .section--concept__row {
   display: flex;
@@ -443,6 +448,13 @@
   border-radius: 50%;
   background-color: #006c7a;
 }
+.rte h3 + figure > img,
+.rte h3 + p > img {
+  margin-top: 0;
+}
+.rte p + h3 {
+  margin-top: 2rem;
+}
 .rte p {
   line-height: 1.8;
 }
@@ -478,12 +490,13 @@
   display: inline-block;
   width: -moz-fit-content;
   width: fit-content;
-  padding: 0.75rem 1.5rem;
+  margin-bottom: 3rem;
+  padding: 0.75rem 3rem;
   border: none;
-  border-radius: 1.5rem;
+  border-radius: 2rem;
   background-color: #0094a4;
   color: var(--color--btn);
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-align: center;
   text-decoration: none;
   word-break: break-word;
